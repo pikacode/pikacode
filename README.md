@@ -2,5 +2,6 @@
 
 ### Hi，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
+-  Focusing on iOS Development
+- 🔨 Creator of applications and frameworks
+- 🗣️ Learning the Japanese language  now
