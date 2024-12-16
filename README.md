@@ -4,5 +4,5 @@
 
 -  Focusing on iOS Development
 - 🔨 Creator of applications and frameworks
-- 🗣️ Learning the Japanese language now
+- 💬 Learning the Japanese language now
 - 🗾 East Blue. I came, therefore I see.
