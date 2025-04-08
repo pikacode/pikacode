@@ -8,4 +8,4 @@
 - 🗾 East Blue. I came, therefore I see.
 
 <br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=pikacode" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=pikacode&title=-Reviews" />
