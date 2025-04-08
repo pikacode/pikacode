@@ -6,3 +6,6 @@
 - 🔨 Creator of applications and frameworks
 - 💬 Learning the Japanese language now
 - 🗾 East Blue. I came, therefore I see.
+
+<br>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=pikacode" />
